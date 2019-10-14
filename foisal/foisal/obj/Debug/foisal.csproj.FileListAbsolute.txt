@@ -1,0 +1,53 @@
+c:\users\user\source\repos\foisal\foisal\bin\Debug\foisal.exe.config
+c:\users\user\source\repos\foisal\foisal\bin\Debug\foisal.exe
+c:\users\user\source\repos\foisal\foisal\bin\Debug\foisal.pdb
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.csprojAssemblyReference.cache
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.be_a_donor.resources
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.Form1.resources
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.log_in.resources
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.Properties.Resources.resources
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.csproj.GenerateResource.cache
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.exe
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.pdb
+c:\users\user\source\repos\foisal\foisal\bin\Debug\nahid.accdb
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.find_donor.resources
+c:\users\user\source\repos\foisal\foisal\obj\Debug\foisal.Admin_show.resources
+C:\Users\User\source\repos\foisal\foisal\obj\Debug\foisal.log_blood_taker.resources
+C:\Users\User\source\repos\foisal\foisal\obj\Debug\foisal.operation.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\bin\Debug\nahid.accdb
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\bin\Debug\foisal.exe.config
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\bin\Debug\foisal.exe
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\bin\Debug\foisal.pdb
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.csprojAssemblyReference.cache
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.Admin_show.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.be_a_donor.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.find_donor.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.Form1.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.log_blood_taker.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.log_in.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.operation.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.Properties.Resources.resources
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.csproj.GenerateResource.cache
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.csproj.CoreCompileInputs.cache
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.exe
+F:\SDG 2\blood donation project UI\foisal\foisal\foisal\obj\Debug\foisal.pdb
+G:\foisal\foisal\foisal\bin\Debug\nahid.accdb
+G:\foisal\foisal\foisal\bin\Debug\foisal.exe.config
+G:\foisal\foisal\foisal\bin\Debug\foisal.exe
+G:\foisal\foisal\foisal\bin\Debug\foisal.pdb
+G:\foisal\foisal\foisal\obj\Debug\foisal.csprojAssemblyReference.cache
+G:\foisal\foisal\foisal\obj\Debug\foisal.Admin_show.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.be_a_donor.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.find_donor.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.Form1.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.log_blood_taker.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.log_in.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.operation.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.Properties.Resources.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.csproj.GenerateResource.cache
+G:\foisal\foisal\foisal\obj\Debug\foisal.csproj.CoreCompileInputs.cache
+G:\foisal\foisal\foisal\obj\Debug\foisal.exe
+G:\foisal\foisal\foisal\obj\Debug\foisal.pdb
+G:\foisal\foisal\foisal\obj\Debug\foisal.passwordupdate.resources
+G:\foisal\foisal\foisal\obj\Debug\foisal.addHospital.resources
